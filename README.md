@@ -24,3 +24,11 @@ You can access and use the live application here:
 ## License
 
 This project is licensed under the MIT License.
+
+## Citation
+
+If you use this software in your research, please cite it as follows:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16097409.svg)](https://doi.org/10.5281/zenodo.16097409)
+
+> Mustafa, H. (2025). Lactation Curve Analyzer (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16097409
